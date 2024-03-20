@@ -1,4 +1,4 @@
-FROM node:current-alpine3.11 as build-stage
+FROM Ubuntu
 
 # RUN mkdir -p /app
 
